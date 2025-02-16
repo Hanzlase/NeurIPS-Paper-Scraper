@@ -1,0 +1,311 @@
+✅ Paper 3: The Hopfield Model with Multi-Level Neurons -> Machine Learning and Deep Learning
+✅ Paper 2: Connectivity Versus Entropy -> Machine Learning and Deep Learning
+✅ Paper 4: How Neural Nets Work -> Machine Learning and Deep Learning
+✅ Paper 5: Spatial Organization of Neural Networks: A Probabilistic Modeling Approach -> Machine Learning and Deep Learning
+✅ Paper 1: Bit-Serial Neural Networks -> Machine Learning and Deep Learning
+✅ Paper 7: LEARNING BY STATE RECURRENCE DETECTION -> AI and Applications
+✅ Paper 6: A Neural-Network Solution to the Concentrator Assignment Problem -> Machine Learning and Deep Learning
+✅ Paper 8: Stability Results for Neural Networks -> Ethics and Fairness in AI
+✅ Paper 9: Introduction to a System for Implementing Neural Net Connections on SIMD Architectures -> AI and Applications
+✅ Paper 10: Optimization with Artificial Neural Network Systems: A Mapping Principle and a Comparison to Gradient Based Methods -> AI and Applications
+✅ Paper 12: REFLEXIVE ASSOCIATIVE MEMORIES -> Ethics and Fairness in AI
+✅ Paper 11: Optimal Neural Spike Classification -> Machine Learning and Deep Learning
+✅ Paper 15: On Properties of Networks of Neuron-Like Elements -> Ethics and Fairness in AI
+✅ Paper 14: Speech Recognition Experiments with Perceptrons -> Machine Learning and Deep Learning
+✅ Paper 13: The Performance of Convex Set Projection Based Neural Networks -> Machine Learning and Deep Learning
+✅ Paper 16: Ensemble' Boltzmann Units have Collective Computational Properties like those of Hopfield and Tank Neurons -> AI and Applications
+✅ Paper 19: A 'Neural' Network that Learns to Play Backgammon -> AI and Applications
+✅ Paper 21: A Computer Simulation of Cerebral Neocortex: Computational Capabilities of Nonlinear Neural Networks -> AI and Applications
+✅ Paper 22: PATTERN CLASS DEGENERACY IN AN UNRESTRICTED STORAGE DENSITY MEMORY -> Machine Learning and Deep Learning
+✅ Paper 17: On Tropistic Processing and Its Applications -> AI and Applications
+✅ Paper 25: Cycles: A Simulation Tool for Studying Cyclic Neural Networks -> AI and Applications
+✅ Paper 20: Learning Representations by Recirculation -> Machine Learning and Deep Learning
+✅ Paper 18: Neuromorphic Networks Based on Sparse Optical Orthogonal Codes -> Machine Learning and Deep Learning
+✅ Paper 24: Invariant Object Recognition Using a Distributed Associative Memory -> AI and Applications
+✅ Paper 23: Strategies for Teaching Layered Networks Classification Tasks -> Ethics and Fairness in AI
+✅ Paper 29: Synchronization in Neural Nets -> AI and Applications
+✅ Paper 30: A NEURAL NETWORK CLASSIFIER BASED ON CODING THEORY -> Machine Learning and Deep Learning
+✅ Paper 31: Microelectronic Implementations of Connectionist Neural Networks -> AI and Applications
+✅ Paper 27: Neural Net and Traditional Classifiers -> AI and Applications
+✅ Paper 28: Scaling Properties of Coarse-Coded Symbol Memories -> Machine Learning and Deep Learning
+✅ Paper 26: Learning on a General Network -> Machine Learning and Deep Learning
+✅ Paper 36: Basins of Attraction for Electronic Neural Networks -> AI and Applications
+✅ Paper 33: Hierarchical Learning Control - An Approach with Neuron-Like Associative Memories -> Machine Learning and Deep Learning
+✅ Paper 32: Analysis of Distributed Representation of Constituent Structure in Connectionist Systems -> AI and Applications
+✅ Paper 35: An Optimization Network for Matrix Inversion -> Machine Learning and Deep Learning
+✅ Paper 34: Presynaptic Neural Information Processing -> Ethics and Fairness in AI
+✅ Paper 37: Programmable Synaptic Chip for Electronic Neural Networks -> AI and Applications
+✅ Paper 38: Learning a Color Algorithm from Examples -> Theoretical Foundations
+✅ Paper 39: Generalization of Back propagation to Recurrent and Higher Order Neural Networks -> Machine Learning and Deep Learning
+✅ Paper 43: Phasor Neural Networks -> AI and Applications
+✅ Paper 42: HOW THE CATFISH TRACKS ITS PREY: AN INTERACTIVE "PIPELINED" PROCESSING SYSTEM MAY DIRECT FORAGING VIA RETICULOSPINAL NEURONS -> AI and Applications
+✅ Paper 45: Experimental Demonstrations of Optical Neural Computers -> Machine Learning and Deep Learning
+✅ Paper 46: MURPHY: A Robot that Learns by Doing -> Machine Learning and Deep Learning
+✅ Paper 40: Neural Network Implementation Approaches for the Connection Machine -> Machine Learning and Deep Learning
+✅ Paper 49: An Artificial Neural Network for Spatio-Temporal Bipolar Patterns: Application to Phoneme Classification -> AI and Applications
+✅ Paper 50: Teaching Artificial Neural Systems to Drive: Manual Training Techniques for Autonomous Systems -> Machine Learning and Deep Learning
+✅ Paper 44: Computing Motion Using Resistive Networks -> Ethics and Fairness in AI
+✅ Paper 41: On the Power of Neural Networks for Solving Hard Problems -> Machine Learning and Deep Learning
+✅ Paper 2: Connectivity Versus Entropy -> Machine Learning and Deep Learning
+✅ Paper 5: Spatial Organization of Neural Networks: A Probabilistic Modeling Approach -> Machine Learning and Deep Learning
+✅ Paper 3: The Hopfield Model with Multi-Level Neurons -> Machine Learning and Deep Learning
+✅ Paper 4: How Neural Nets Work -> Machine Learning and Deep Learning
+✅ Paper 1: Bit-Serial Neural Networks -> Machine Learning and Deep Learning
+✅ Paper 8: Stability Results for Neural Networks -> Ethics and Fairness in AI
+✅ Paper 6: A Neural-Network Solution to the Concentrator Assignment Problem -> Machine Learning and Deep Learning
+✅ Paper 9: Introduction to a System for Implementing Neural Net Connections on SIMD Architectures -> AI and Applications
+✅ Paper 10: Optimization with Artificial Neural Network Systems: A Mapping Principle and a Comparison to Gradient Based Methods -> AI and Applications
+✅ Paper 7: LEARNING BY STATE RECURRENCE DETECTION -> AI and Applications
+✅ Paper 11: Optimal Neural Spike Classification -> Machine Learning and Deep Learning
+✅ Paper 15: On Properties of Networks of Neuron-Like Elements -> Ethics and Fairness in AI
+✅ Paper 13: The Performance of Convex Set Projection Based Neural Networks -> Machine Learning and Deep Learning
+✅ Paper 12: REFLEXIVE ASSOCIATIVE MEMORIES -> Ethics and Fairness in AI
+✅ Paper 14: Speech Recognition Experiments with Perceptrons -> Machine Learning and Deep Learning
+✅ Paper 16: Ensemble' Boltzmann Units have Collective Computational Properties like those of Hopfield and Tank Neurons -> AI and Applications
+✅ Paper 18: Neuromorphic Networks Based on Sparse Optical Orthogonal Codes -> Machine Learning and Deep Learning
+✅ Paper 20: Learning Representations by Recirculation -> Machine Learning and Deep Learning
+✅ Paper 19: A 'Neural' Network that Learns to Play Backgammon -> AI and Applications
+✅ Paper 17: On Tropistic Processing and Its Applications -> AI and Applications
+✅ Paper 25: Cycles: A Simulation Tool for Studying Cyclic Neural Networks -> AI and Applications
+✅ Paper 22: PATTERN CLASS DEGENERACY IN AN UNRESTRICTED STORAGE DENSITY MEMORY -> Machine Learning and Deep Learning
+✅ Paper 24: Invariant Object Recognition Using a Distributed Associative Memory -> AI and Applications
+✅ Paper 23: Strategies for Teaching Layered Networks Classification Tasks -> Ethics and Fairness in AI
+✅ Paper 21: A Computer Simulation of Cerebral Neocortex: Computational Capabilities of Nonlinear Neural Networks -> AI and Applications
+✅ Paper 28: Scaling Properties of Coarse-Coded Symbol Memories -> Machine Learning and Deep Learning
+✅ Paper 26: Learning on a General Network -> Machine Learning and Deep Learning
+✅ Paper 29: Synchronization in Neural Nets -> AI and Applications
+✅ Paper 30: A NEURAL NETWORK CLASSIFIER BASED ON CODING THEORY -> Machine Learning and Deep Learning
+✅ Paper 27: Neural Net and Traditional Classifiers -> AI and Applications
+✅ Paper 33: Hierarchical Learning Control - An Approach with Neuron-Like Associative Memories -> Machine Learning and Deep Learning
+✅ Paper 31: Microelectronic Implementations of Connectionist Neural Networks -> AI and Applications
+✅ Paper 32: Analysis of Distributed Representation of Constituent Structure in Connectionist Systems -> AI and Applications
+✅ Paper 34: Presynaptic Neural Information Processing -> Ethics and Fairness in AI
+✅ Paper 35: An Optimization Network for Matrix Inversion -> Machine Learning and Deep Learning
+✅ Paper 38: Learning a Color Algorithm from Examples -> Theoretical Foundations
+✅ Paper 36: Basins of Attraction for Electronic Neural Networks -> AI and Applications
+✅ Paper 37: Programmable Synaptic Chip for Electronic Neural Networks -> AI and Applications
+✅ Paper 39: Generalization of Back propagation to Recurrent and Higher Order Neural Networks -> Machine Learning and Deep Learning
+✅ Paper 43: Phasor Neural Networks -> AI and Applications
+✅ Paper 42: HOW THE CATFISH TRACKS ITS PREY: AN INTERACTIVE "PIPELINED" PROCESSING SYSTEM MAY DIRECT FORAGING VIA RETICULOSPINAL NEURONS -> AI and Applications
+✅ Paper 40: Neural Network Implementation Approaches for the Connection Machine -> Machine Learning and Deep Learning
+✅ Paper 41: On the Power of Neural Networks for Solving Hard Problems -> Machine Learning and Deep Learning
+✅ Paper 44: Computing Motion Using Resistive Networks -> Ethics and Fairness in AI
+✅ Paper 45: Experimental Demonstrations of Optical Neural Computers -> Machine Learning and Deep Learning
+✅ Paper 46: MURPHY: A Robot that Learns by Doing -> Machine Learning and Deep Learning
+✅ Paper 49: An Artificial Neural Network for Spatio-Temporal Bipolar Patterns: Application to Phoneme Classification -> AI and Applications
+✅ Paper 50: Teaching Artificial Neural Systems to Drive: Manual Training Techniques for Autonomous Systems -> Machine Learning and Deep Learning
+✅ Paper 51: Correlational Strength and Computational Algebra of Synaptic Connections Between Neurons -> Machine Learning and Deep Learning
+✅ Paper 52: Discovering Structure from Motion in Monkey, Man and Machine -> Ethics and Fairness in AI
+✅ Paper 53: Static and Dynamic Error Propagation Networks with Application to Speech Coding -> AI and Applications
+✅ Paper 47: SPONTANEOUS AND  INFORMATION-TRIGGERED SEGMENTS OF SERIES OF HUMAN BRAIN ELECTRIC FIELD MAPS -> Theoretical Foundations
+✅ Paper 55: Distributed Neural Information Processing in the Vestibulo-Ocular System -> AI and Applications
+✅ Paper 48: Simulations Suggest Information Processing Roles for the Diverse Currents in Hippocampal Neurons -> Theoretical Foundations
+✅ Paper 56: Time-Sequential Self-Organization of Hierarchical Neural Networks -> Machine Learning and Deep Learning
+✅ Paper 58: Constrained Differential Optimization -> Machine Learning and Deep Learning
+✅ Paper 59: Encoding Geometric Invariances in Higher-Order Neural Networks -> AI and Applications
+✅ Paper 61: Mathematical Analysis of Learning Behavior of Neuronal Models -> Ethics and Fairness in AI
+✅ Paper 54: Schema for Motor Control Utilizing a Network Model of the Cerebellum -> Ethics and Fairness in AI
+✅ Paper 57: A Method for the Design of Stable Lateral Inhibition Networks that is Robust in the Presence of Circuit Parasitics -> Ethics and Fairness in AI
+✅ Paper 63: An Adaptive and Heterodyne Filtering Procedure for the Imaging of Moving Objects -> AI and Applications
+✅ Paper 60: A Novel Net that Learns Sequential Decision Process -> Machine Learning and Deep Learning
+✅ Paper 62: New Hardware for Massive Neural Networks -> AI and Applications
+✅ Paper 64: Phase Transitions in Neural Networks -> Ethics and Fairness in AI
+✅ Paper 66: Self-Organization of Associative Database and Its Applications -> AI and Applications
+✅ Paper 67: Temporal Patterns of Activity in Neural Networks -> Ethics and Fairness in AI
+✅ Paper 71: The Sigmoid Nonlinearity in Prepyriform Cortex -> AI and Applications
+✅ Paper 65: Using Neural Networks to Improve Cochlear Implant Speech Perception -> Machine Learning and Deep Learning
+✅ Paper 68: Network Generality, Training Required, and Precision Required -> Theoretical Foundations
+✅ Paper 69: High Order Neural Networks for Efficient Associative Memory Design -> Ethics and Fairness in AI
+✅ Paper 75: A Mean Field Theory of Layer IV of Visual Cortex and Its Application to Artificial Neural Networks -> AI and Applications
+✅ Paper 73: Learning in Networks of Nondeterministic Adaptive Logic Elements -> Machine Learning and Deep Learning
+✅ Paper 74: HIGH DENSITY ASSOCIATIVE MEMORIES -> Machine Learning and Deep Learning
+✅ Paper 70: The Capacity of the Kanerva Associative Memory is Exponential -> AI and Applications
+✅ Paper 72: Probabilistic Characterization of Neural Model Computations -> AI and Applications
+✅ Paper 77: Capacity for Patterns and Sequences in Kanerva's SDM as Compared to Other Associative Memory Models -> Machine Learning and Deep Learning
+✅ Paper 79: Performance Measures for Associative Memories that Learn and Forget -> Ethics and Fairness in AI
+✅ Paper 81: A Computer Simulation of Olfactory Cortex with Functional Implications for Storage and Retrieval of Olfactory Information -> Machine Learning and Deep Learning
+✅ Paper 76: Neural Networks for Template Matching: Application to Real-Time Classification of the Action Potentials of Real Neurons -> AI and Applications
+✅ Paper 78: The Connectivity Analysis of Simple Association -> AI and Applications
+✅ Paper 80: Centric Models of the Orientation Map in Primary Visual Cortex -> AI and Applications
+✅ Paper 82: Towards an Organizing Principle for a Layered Perceptual Network -> AI and Applications
+✅ Paper 83: A Trellis-Structured Neural Network -> AI and Applications
+✅ Paper 87: PARTITIONING OF SENSORY DATA BY A CORTICAL NETWORK -> AI and Applications
+✅ Paper 84: Supervised Learning of Probability Distributions by Neural Networks -> AI and Applications
+✅ Paper 89: Minkowski-r Back-Propagation: Learning in Connectionist Models with Non-Euclidian Error Signals -> AI and Applications
+✅ Paper 90: Analysis and Comparison of Different Learning Algorithms for Pattern Association Problems -> Ethics and Fairness in AI
+✅ Paper 88: A Dynamical Approach to Temporal Pattern Processing -> AI and Applications
+✅ Paper 86: Connecting to the Past -> Machine Learning and Deep Learning
+✅ Paper 85: Stochastic Learning Networks and their Electronic Implementation -> Machine Learning and Deep Learning
+✅ Paper 92: Modeling the Olfactory Bulb - Coupled Nonlinear Oscillators -> AI and Applications
+✅ Paper 91: Neural Control of Sensory Acquisition: The Vestibulo-Ocular Reflex -> AI and Applications
+✅ Paper 96: Computer Modeling of Associative Learning -> Machine Learning and Deep Learning
+✅ Paper 94: The Boltzmann Perceptron Network: A Multi-Layered Feed-Forward Network Equivalent to the Boltzmann Machine -> Machine Learning and Deep Learning
+✅ Paper 98: Skeletonization: A Technique for Trimming the Fat from a Network via Relevance Assessment -> AI and Applications
+✅ Paper 93: Efficient Parallel Learning Algorithms for Neural Networks -> Machine Learning and Deep Learning
+✅ Paper 95: Neural Networks that Learn to Discriminate Similar Kanji Characters -> Machine Learning and Deep Learning
+✅ Paper 100: Speech Production Using A Neural Network with a Cooperative Learning Mechanism -> Machine Learning and Deep Learning
+✅ Paper 102: Performance of a Stochastic Learning Microchip -> Machine Learning and Deep Learning
+✅ Paper 97: Links Between Markov Models and Multilayer Perceptrons -> AI and Applications
+✅ Paper 99: A Passive Shared Element Analog Electrical Cochlea -> AI and Applications
+✅ Paper 103: Song Learning in Birds -> Ethics and Fairness in AI
+✅ Paper 105: Comparing Biases for Minimal Network Construction with Back-Propagation -> Machine Learning and Deep Learning
+✅ Paper 101: Associative Learning via Inhibitory Search -> Machine Learning and Deep Learning
+✅ Paper 104: Modeling Small Oscillating Biological Networks in Analog VLSI -> Theoretical Foundations
+✅ Paper 107: A Low-Power CMOS Circuit Which Emulates Temporal Electrical Properties of Neurons -> AI and Applications
+✅ Paper 108: Linear Learning: Landscapes and Algorithms -> Machine Learning and Deep Learning
+✅ Paper 106: What Size Net Gives Valid Generalization? -> Machine Learning and Deep Learning
+✅ Paper 109: Applications of Error Back-Propagation to Phonetic Classification -> Ethics and Fairness in AI
+✅ Paper 110: An Analog Self-Organizing Neural Network Chip -> Machine Learning and Deep Learning
+✅ Paper 111: A Bifurcation Theory Approach to the Programming of Periodic Attractors in Network Models of Olfactory Cortex -> Machine Learning and Deep Learning
+✅ Paper 113: Programmable Analog Pulse-Firing Neural Networks -> Machine Learning and Deep Learning
+✅ Paper 116: Training Multilayer Perceptrons with the Extended Kalman Algorithm -> AI and Applications
+✅ Paper 117: An Electronic Photoreceptor Sensitive to Small Changes in Intensity -> Machine Learning and Deep Learning
+✅ Paper 112: Heterogeneous Neural Networks for Adaptive Behavior in Dynamic Environments -> AI and Applications
+✅ Paper 114: An Analog VLSI Chip for Thin-Plate Surface Interpolation -> Machine Learning and Deep Learning
+✅ Paper 115: Simulation and Measurement of the Electric Fields Generated by Weakly Electric Fish -> AI and Applications
+✅ Paper 118: Training a 3-Node Neural Network is NP-Complete -> Machine Learning and Deep Learning
+✅ Paper 120: Adaptive Neural Net Preprocessing for Signal Detection in Non-Gaussian Noise -> AI and Applications
+✅ Paper 122: GENESIS: A System for Simulating Neural Networks -> AI and Applications
+✅ Paper 123: Neural Architecture -> Ethics and Fairness in AI
+✅ Paper 124: Learning by Choice of Internal Representations -> Machine Learning and Deep Learning
+✅ Paper 125: Adaptive Neural Networks Using MOS Charge Storage -> Machine Learning and Deep Learning
+✅ Paper 126: Implications of Recursive Distributed Representations -> Machine Learning and Deep Learning
+✅ Paper 119: Automatic Local Annealing -> Machine Learning and Deep Learning
+✅ Paper 121: Learning the Solution to the Aperture Problem for Pattern Motion with a Hebb Rule -> Machine Learning and Deep Learning
+✅ Paper 127: Backpropagation and Its Application to Handwritten Signature Verification -> Ethics and Fairness in AI
+✅ Paper 130: Dynamics of Analog Neural Networks with Time Delay -> AI and Applications
+✅ Paper 129: An Adaptive Network That Learns Sequences of Transitions -> Machine Learning and Deep Learning
+✅ Paper 128: Theory of Self-Organization of Cortical Maps -> Machine Learning and Deep Learning
+✅ Paper 131: On the K-Winners-Take-All Network -> Theoretical Foundations
+✅ Paper 133: Use of Multi-Layered Networks for Coding Speech with Phonetic Features -> Machine Learning and Deep Learning
+✅ Paper 135: A Programmable Analog Neural Computer and Simulator -> Machine Learning and Deep Learning
+✅ Paper 132: Does the Neuron "Learn" like the Synapse? -> AI and Applications
+✅ Paper 134: Electronic Receptors for Tactile/Haptic Sensing -> Ethics and Fairness in AI
+✅ Paper 138: Cricket Wind Detection -> Ethics and Fairness in AI
+✅ Paper 136: An Information Theoretic Approach to Rule-Based Connectionist Expert Systems -> AI and Applications
+✅ Paper 137: A Connectionist Expert System that Actually Works -> AI and Applications
+✅ Paper 140: Fast Learning in Multi-Resolution Hierarchies -> Machine Learning and Deep Learning
+✅ Paper 139: ALVINN: An Autonomous Land Vehicle in a Neural Network -> Machine Learning and Deep Learning
+✅ Paper 143: Training a Limited-Interconnect, Synthetic Neural IC -> Ethics and Fairness in AI
+✅ Paper 142: A Network for Image Segmentation Using Color -> AI and Applications
+✅ Paper 141: Mapping Classifier Systems Into Neural Networks -> Machine Learning and Deep Learning
+✅ Paper 145: Temporal Representations in a Connectionist Speech System -> AI and Applications
+✅ Paper 144: A Model for Resolution Enhancement (Hyperacuity) in Sensory Representation -> Machine Learning and Deep Learning
+✅ Paper 148: Neural Net Receivers in Multiple Access-Communications -> AI and Applications
+✅ Paper 147: A Massively Parallel Self-Tuning Context-Free Parser -> AI and Applications
+✅ Paper 146: Neural Network Star Pattern Recognition for Spacecraft Attitude Determination and Control -> AI and Applications
+✅ Paper 150: Statistical Prediction with Kanerva's Sparse Distributed Memory -> Ethics and Fairness in AI
+✅ Paper 151: Learning Sequential Structure in Simple Recurrent Networks -> Machine Learning and Deep Learning
+✅ Paper 153: GEMINI: Gradient Estimation Through Matrix Inversion After Noise Injection -> Machine Learning and Deep Learning
+✅ Paper 149: A Computationally Robust Anatomical Model for Retinal Directional Selectivity -> Machine Learning and Deep Learning
+✅ Paper 154: A Self-Learning Neural Network -> Machine Learning and Deep Learning
+✅ Paper 152: A Back-Propagation Algorithm with Optimal Use of Hidden Units -> Machine Learning and Deep Learning
+✅ Paper 159: Winner-Take-All Networks of O(N) Complexity -> Ethics and Fairness in AI
+✅ Paper 155: Neural Networks for Model Matching and Perceptual Organization -> AI and Applications
+✅ Paper 156: Neuronal Maps for Sensory-Motor Control in the Barn Owl -> AI and Applications
+✅ Paper 157: Performance of Synthetic Neural Network Classification of Noisy Radar Signals -> Machine Learning and Deep Learning
+✅ Paper 158: Connectionist Learning of Expert Preferences by Comparison Training -> AI and Applications
+✅ Paper 164: Neural Approach for TV Image Compression Using a Hopfield Type Network -> Machine Learning and Deep Learning
+✅ Paper 162: Range Image Restoration Using Mean Field Annealing -> AI and Applications
+✅ Paper 163: Analyzing the Energy Landscapes of Distributed Winner-Take-All Networks -> Machine Learning and Deep Learning
+✅ Paper 161: Analog Implementation of Shunting Neural Networks -> Machine Learning and Deep Learning
+✅ Paper 160: Neural Network Recognizer for Hand-Written Zip Code Digits -> Ethics and Fairness in AI
+✅ Paper 165: Speech Recognition: Statistical and Neural Information Processing Approaches -> Machine Learning and Deep Learning
+✅ Paper 170: Scaling and Generalization in Neural Networks: A Case Study -> AI and Applications
+✅ Paper 168: Digital Realisation of Self-Organising Maps -> Machine Learning and Deep Learning
+✅ Paper 169: Further Explorations in Visually-Guided Reaching: Making MURPHY Smarter -> AI and Applications
+✅ Paper 171: A Model of Neural Oscillator for a Unified Submodule -> Machine Learning and Deep Learning
+✅ Paper 172: An Optimality Principle for Unsupervised Learning -> AI and Applications
+✅ Paper 175: An Application of the Principle of Maximum Information Preservation to Linear Systems -> AI and Applications
+✅ Paper 176: Spreading Activation over Distributed Microfeatures -> Ethics and Fairness in AI
+✅ Paper 167: Models of Ocular Dominance Column Formation: Analytical and Computational Results -> Machine Learning and Deep Learning
+✅ Paper 166: Convergence and Pattern-Stabilization in the Boltzmann Machine -> Machine Learning and Deep Learning
+✅ Paper 178: Constraints on Adaptive Networks for Modeling Human Generalization -> Machine Learning and Deep Learning
+✅ Paper 180: Learning with Temporal Derivatives in Pulse-Coded Neuronal Systems -> AI and Applications
+✅ Paper 174: Optimization by Mean Field Annealing -> AI and Applications
+✅ Paper 179: Self Organizing Neural Networks for the Identification Problem -> Machine Learning and Deep Learning
+✅ Paper 183: Dynamic, Non-Local Role Bindings and Inferencing in a Localist Network for Natural Language Understanding -> Ethics and Fairness in AI
+✅ Paper 181: Using Backpropagation with Temporal Windows to Learn the Dynamics of the CMU Direct-Drive Arm II -> Machine Learning and Deep Learning
+✅ Paper 182: Storing Covariance by the Associative Long-Term Potentiation and Depression of Synaptic Strengths in the Hippocampus -> Ethics and Fairness in AI
+✅ Paper 184: Fixed Point Analysis for Recurrent Networks -> Machine Learning and Deep Learning
+✅ Paper 173: Neural Analog Diffusion-Enhancement Layer and Spatio-Temporal Grouping in Early Vision -> Machine Learning and Deep Learning
+✅ Paper 177: Consonant Recognition by Modular Construction of Large Phonemic Time-Delay Neural Networks -> Machine Learning and Deep Learning
+✅ Paper 5: Spatial Organization of Neural Networks: A Probabilistic Modeling Approach -> Machine Learning and Deep Learning
+✅ Paper 3: The Hopfield Model with Multi-Level Neurons -> Machine Learning and Deep Learning
+✅ Paper 2: Connectivity Versus Entropy -> Machine Learning and Deep Learning
+✅ Paper 4: How Neural Nets Work -> Machine Learning and Deep Learning
+✅ Paper 1: Bit-Serial Neural Networks -> Machine Learning and Deep Learning
+✅ Paper 6: A Neural-Network Solution to the Concentrator Assignment Problem -> Machine Learning and Deep Learning
+✅ Paper 8: Stability Results for Neural Networks -> Ethics and Fairness in AI
+✅ Paper 9: Introduction to a System for Implementing Neural Net Connections on SIMD Architectures -> AI and Applications
+✅ Paper 7: LEARNING BY STATE RECURRENCE DETECTION -> AI and Applications
+✅ Paper 10: Optimization with Artificial Neural Network Systems: A Mapping Principle and a Comparison to Gradient Based Methods -> AI and Applications
+✅ Paper 11: Optimal Neural Spike Classification -> Machine Learning and Deep Learning
+✅ Paper 12: REFLEXIVE ASSOCIATIVE MEMORIES -> Ethics and Fairness in AI
+✅ Paper 14: Speech Recognition Experiments with Perceptrons -> Machine Learning and Deep Learning
+✅ Paper 13: The Performance of Convex Set Projection Based Neural Networks -> Machine Learning and Deep Learning
+✅ Paper 15: On Properties of Networks of Neuron-Like Elements -> Ethics and Fairness in AI
+✅ Paper 17: On Tropistic Processing and Its Applications -> AI and Applications
+✅ Paper 18: Neuromorphic Networks Based on Sparse Optical Orthogonal Codes -> Machine Learning and Deep Learning
+✅ Paper 19: A 'Neural' Network that Learns to Play Backgammon -> AI and Applications
+✅ Paper 20: Learning Representations by Recirculation -> Machine Learning and Deep Learning
+✅ Paper 23: Strategies for Teaching Layered Networks Classification Tasks -> Ethics and Fairness in AI
+✅ Paper 22: PATTERN CLASS DEGENERACY IN AN UNRESTRICTED STORAGE DENSITY MEMORY -> Machine Learning and Deep Learning
+✅ Paper 16: Ensemble' Boltzmann Units have Collective Computational Properties like those of Hopfield and Tank Neurons -> AI and Applications
+✅ Paper 21: A Computer Simulation of Cerebral Neocortex: Computational Capabilities of Nonlinear Neural Networks -> AI and Applications
+✅ Paper 24: Invariant Object Recognition Using a Distributed Associative Memory -> AI and Applications
+✅ Paper 26: Learning on a General Network -> Machine Learning and Deep Learning
+✅ Paper 28: Scaling Properties of Coarse-Coded Symbol Memories -> Machine Learning and Deep Learning
+✅ Paper 25: Cycles: A Simulation Tool for Studying Cyclic Neural Networks -> AI and Applications
+✅ Paper 27: Neural Net and Traditional Classifiers -> AI and Applications
+✅ Paper 29: Synchronization in Neural Nets -> AI and Applications
+✅ Paper 31: Microelectronic Implementations of Connectionist Neural Networks -> AI and Applications
+✅ Paper 32: Analysis of Distributed Representation of Constituent Structure in Connectionist Systems -> AI and Applications
+✅ Paper 33: Hierarchical Learning Control - An Approach with Neuron-Like Associative Memories -> Machine Learning and Deep Learning
+✅ Paper 34: Presynaptic Neural Information Processing -> Ethics and Fairness in AI
+✅ Paper 30: A NEURAL NETWORK CLASSIFIER BASED ON CODING THEORY -> Machine Learning and Deep Learning
+✅ Paper 37: Programmable Synaptic Chip for Electronic Neural Networks -> AI and Applications
+✅ Paper 36: Basins of Attraction for Electronic Neural Networks -> AI and Applications
+✅ Paper 35: An Optimization Network for Matrix Inversion -> Machine Learning and Deep Learning
+✅ Paper 38: Learning a Color Algorithm from Examples -> Theoretical Foundations
+✅ Paper 39: Generalization of Back propagation to Recurrent and Higher Order Neural Networks -> Machine Learning and Deep Learning
+✅ Paper 41: On the Power of Neural Networks for Solving Hard Problems -> Machine Learning and Deep Learning
+✅ Paper 42: HOW THE CATFISH TRACKS ITS PREY: AN INTERACTIVE "PIPELINED" PROCESSING SYSTEM MAY DIRECT FORAGING VIA RETICULOSPINAL NEURONS -> AI and Applications
+✅ Paper 44: Computing Motion Using Resistive Networks -> Ethics and Fairness in AI
+✅ Paper 43: Phasor Neural Networks -> AI and Applications
+✅ Paper 40: Neural Network Implementation Approaches for the Connection Machine -> Machine Learning and Deep Learning
+✅ Paper 46: MURPHY: A Robot that Learns by Doing -> Machine Learning and Deep Learning
+✅ Paper 45: Experimental Demonstrations of Optical Neural Computers -> Machine Learning and Deep Learning
+✅ Paper 48: Simulations Suggest Information Processing Roles for the Diverse Currents in Hippocampal Neurons -> Theoretical Foundations
+✅ Paper 47: SPONTANEOUS AND  INFORMATION-TRIGGERED SEGMENTS OF SERIES OF HUMAN BRAIN ELECTRIC FIELD MAPS -> Theoretical Foundations
+✅ Paper 52: Discovering Structure from Motion in Monkey, Man and Machine -> Ethics and Fairness in AI
+✅ Paper 51: Correlational Strength and Computational Algebra of Synaptic Connections Between Neurons -> Machine Learning and Deep Learning
+✅ Paper 50: Teaching Artificial Neural Systems to Drive: Manual Training Techniques for Autonomous Systems -> Machine Learning and Deep Learning
+✅ Paper 49: An Artificial Neural Network for Spatio-Temporal Bipolar Patterns: Application to Phoneme Classification -> AI and Applications
+✅ Paper 53: Static and Dynamic Error Propagation Networks with Application to Speech Coding -> AI and Applications
+✅ Paper 56: Time-Sequential Self-Organization of Hierarchical Neural Networks -> Machine Learning and Deep Learning
+✅ Paper 58: Constrained Differential Optimization -> Machine Learning and Deep Learning
+✅ Paper 57: A Method for the Design of Stable Lateral Inhibition Networks that is Robust in the Presence of Circuit Parasitics -> Ethics and Fairness in AI
+✅ Paper 54: Schema for Motor Control Utilizing a Network Model of the Cerebellum -> Ethics and Fairness in AI
+✅ Paper 55: Distributed Neural Information Processing in the Vestibulo-Ocular System -> AI and Applications
+✅ Paper 61: Mathematical Analysis of Learning Behavior of Neuronal Models -> Ethics and Fairness in AI
+✅ Paper 60: A Novel Net that Learns Sequential Decision Process -> Machine Learning and Deep Learning
+✅ Paper 59: Encoding Geometric Invariances in Higher-Order Neural Networks -> AI and Applications
+✅ Paper 62: New Hardware for Massive Neural Networks -> AI and Applications
+✅ Paper 63: An Adaptive and Heterodyne Filtering Procedure for the Imaging of Moving Objects -> AI and Applications
+✅ Paper 64: Phase Transitions in Neural Networks -> Ethics and Fairness in AI
+✅ Paper 65: Using Neural Networks to Improve Cochlear Implant Speech Perception -> Machine Learning and Deep Learning
+✅ Paper 66: Self-Organization of Associative Database and Its Applications -> AI and Applications
+✅ Paper 68: Network Generality, Training Required, and Precision Required -> Theoretical Foundations
+✅ Paper 67: Temporal Patterns of Activity in Neural Networks -> Ethics and Fairness in AI
+✅ Paper 69: High Order Neural Networks for Efficient Associative Memory Design -> Ethics and Fairness in AI
+✅ Paper 70: The Capacity of the Kanerva Associative Memory is Exponential -> AI and Applications
+✅ Paper 71: The Sigmoid Nonlinearity in Prepyriform Cortex -> AI and Applications
+✅ Paper 72: Probabilistic Characterization of Neural Model Computations -> AI and Applications
+✅ Paper 73: Learning in Networks of Nondeterministic Adaptive Logic Elements -> Machine Learning and Deep Learning
+✅ Paper 74: HIGH DENSITY ASSOCIATIVE MEMORIES -> Machine Learning and Deep Learning
+✅ Paper 75: A Mean Field Theory of Layer IV of Visual Cortex and Its Application to Artificial Neural Networks -> AI and Applications
+✅ Paper 78: The Connectivity Analysis of Simple Association -> AI and Applications
+✅ Paper 76: Neural Networks for Template Matching: Application to Real-Time Classification of the Action Potentials of Real Neurons -> AI and Applications
+✅ Paper 77: Capacity for Patterns and Sequences in Kanerva's SDM as Compared to Other Associative Memory Models -> Machine Learning and Deep Learning
+✅ Paper 79: Performance Measures for Associative Memories that Learn and Forget -> Ethics and Fairness in AI
